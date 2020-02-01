@@ -223,6 +223,7 @@ Werkzeug==0.16.0
 widgetsnbextension==3.5.1
 wrapt==1.11.2
 wurlitzer==1.0.3
+xgboost==0.90
 xlrd==1.2.0
 XlsxWriter==1.2.1
 xlwings==0.15.10
