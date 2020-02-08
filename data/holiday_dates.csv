@@ -1,0 +1,52 @@
+date,event,holiday_name,paid_media_budget,guide_shop
+2016-01-01,holiday,anoNovo,445115.00,3
+2016-03-01,regular,regular,573811.00,3
+2016-03-25,holiday,paixaoCristo
+2016-04-01,regular,regular,876135.00,4
+2016-04-21,holiday,Tiradentes
+2016-05-01,holiday,DiaMundialTrabalho,735740.00,3
+2016-05-26,holiday,CorpusChristi
+2016-06-01,regular,regular,816132.00,3
+2016-07-01,regular,regular,862132.00,4
+2016-08-01,regular,regular,903285.00,4
+2016-09-07,holiday,Independencia do Brasil
+2016-10-01,regular,regular,848765.00,6
+2016-10-12,holiday,Nossa Senhora Aparecida
+2016-11-01,regular,regular,1033212.00,6
+2016-11-02,holiday,Finados
+2016-11-15,holiday,Proclamacao da Republica
+2016-11-21,blackFriday,blackFriday
+2016-11-22,blackFriday,blackFriday
+2016-11-23,blackFriday,blackFriday
+2016-11-24,blackFriday,blackFriday
+2016-11-25,blackFriday,blackFriday
+2016-11-26,blackFriday,blackFriday
+2016-11-27,blackFriday,blackFriday
+2016-11-28,cybermonday,cybermonday
+2016-12-01,regular,regular,726190.00,7
+2016-12-25,holiday,Natal
+2017-01-01,holiday,Ano novo,709142.00,7
+2017-04-01,regular,regular,875838.00,7
+2017-04-14,holiday,Paixao de Cristo
+2017-04-21,holiday,Tiradentes
+2017-05-01,holiday,Dia Mundial do Trabalho,1302973.00,7
+2017-06-01,regular,regular,1362280.00,9
+2017-06-15,holiday,Corpus Christi
+2017-07-01,regular,regular,1287198.00,9
+2017-09-01,regular,regular,1173112.00,11
+2017-09-07,holiday,Independencia do Brasil
+2017-10-01,regular,regular,1127488.00,12
+2017-10-12,holiday,Nossa Senhora Aparecida
+2017-11-01,regular,regular,1500217.00,13
+2017-11-02,holiday,Finados
+2017-11-15,holiday,Proclamacao da Republica
+2017-11-20,blackFriday,blackFriday
+2017-11-21,blackFriday,blackFriday
+2017-11-22,blackFriday,blackFriday
+2017-11-23,blackFriday,blackFriday
+2017-11-24,blackFriday,blackFriday
+2017-11-25,blackFriday,blackFriday
+2017-11-26,blackFriday,blackFriday
+2017-11-27,cybermonday,cybermonday
+2017-12-01,regular,regular,1070487.00,13
+2017-12-25,holiday,Natal
